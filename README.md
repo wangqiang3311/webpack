@@ -1,3 +1,6 @@
+修改了官方提供的webpack模板，加了一个axios插件，用于http请求
+
+
 # vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
